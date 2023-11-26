@@ -63,11 +63,11 @@
 
 ## i18n
 [[mounts]]
-  source = "node_modules/@hyas/doks-core/i18n"
+  source = "i18n"
   target = "i18n"
 
 [[mounts]]
-  source = "i18n"
+  source = "node_modules/@hyas/doks-core/i18n"
   target = "i18n"
 
 ## layouts
