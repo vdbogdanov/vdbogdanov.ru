@@ -13753,13 +13753,13 @@ body {
     .container-fw .docs-content {
       width: 575px; }
     .container-fw .docs-toc {
-      margin-left: 3rem; } }
+      margin-left: 7rem; } }
 
 @media (min-width: 1400px) {
   .container-fw {
-    max-width: 100%; }
+    max-width: 1075px; }
     .container-fw .docs-content {
-      width: 75%; } }
+      width: 1075px; } }
 
 figcaption {
   font-size: 1rem;
