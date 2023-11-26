@@ -151,10 +151,10 @@
 
 @include media-breakpoint-up(xxl) {
   .container-fw {
-    max-width: 1075px;
+    max-width: 100%;
 
     .docs-content {
-      width: 675px;
+      width: 75%;
     }
   }
 }
