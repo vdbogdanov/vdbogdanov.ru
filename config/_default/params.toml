@@ -14,10 +14,10 @@ footer = "Brought to you by <a class=\"text-muted\" href=\"https://gethyas.com/\
 
 # Add-ons
 [add_ons]
-  plausibleDomain = "vdbogdanov.ru" # "example.com" (default)
+  plausibleDomain = "getdoks.org" # "example.com" (default)
 
-# vdbogdanov.ru
-[vdbogdanov_ru]
+# getdoks.org
+[getdoks_org]
   carbonAds = true
   docSearch = false
   plausibleAnalytics = false

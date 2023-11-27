@@ -131,30 +131,30 @@
 
 @include media-breakpoint-up(lg) {
   .container-fw {
-    max-width: 100%;
+    max-width: 675px;
   }
 }
 
 @include media-breakpoint-up(xl) {
   .container-fw {
-    max-width: 100%;
+    max-width: 875px;
     
     .docs-content {
-      width: 70%;
+      width: 575px;
     }
 
     .docs-toc {
-      margin-left: 6rem;
+      margin-left: 3rem;
     }
   }
 }
 
 @include media-breakpoint-up(xxl) {
   .container-fw {
-    max-width: 100%;
+    max-width: 1075px;
 
     .docs-content {
-      width: 70%;
+      width: 675px;
     }
   }
 }

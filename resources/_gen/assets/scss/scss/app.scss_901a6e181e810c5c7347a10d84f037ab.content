@@ -13745,21 +13745,21 @@ body {
 
 @media (min-width: 992px) {
   .container-fw {
-    max-width: 100%; } }
+    max-width: 675px; } }
 
 @media (min-width: 1200px) {
   .container-fw {
-    max-width: 100%; }
+    max-width: 875px; }
     .container-fw .docs-content {
-      width: 70%; }
+      width: 575px; }
     .container-fw .docs-toc {
-      margin-left: 6rem; } }
+      margin-left: 3rem; } }
 
 @media (min-width: 1400px) {
   .container-fw {
-    max-width: 100%; }
+    max-width: 1075px; }
     .container-fw .docs-content {
-      width: 70%; } }
+      width: 675px; } }
 
 figcaption {
   font-size: 1rem;

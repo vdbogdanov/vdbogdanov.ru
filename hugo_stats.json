@@ -4,7 +4,6 @@
       "a",
       "article",
       "aside",
-      "base",
       "blockquote",
       "body",
       "button",
@@ -359,6 +358,7 @@
     ],
     "ids": [
       "TableOfContents",
+      "_carbonads_js",
       "add-buttons",
       "add-content",
       "add-fonts",
