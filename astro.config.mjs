@@ -20,12 +20,12 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
-					autogenerate: { directory: 'guides' },
+					label: 'Cheatsheets',
+					autogenerate: { directory: 'cheatsheets' },
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Ansible',
+					autogenerate: { directory: 'ansible' },
 				},
 			],
 		}),
