@@ -16,6 +16,7 @@ export default defineConfig({
 			},
 			locales: {
 				root: { label: 'Русский', lang: 'ru' },
+				en: { label: 'English', lang: 'en' },
 			},
 			sidebar: [
 				{
