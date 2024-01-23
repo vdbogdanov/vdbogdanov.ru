@@ -14,6 +14,9 @@ export default defineConfig({
 				linkedin: 'https://www.linkedin.com/in/vdbogdanov',
 				email: 'mailto:vladimirxbogdanov@yandex.ru',
 			},
+			locales: {
+				root: { label: 'Русский', lang: 'ru' },
+			},
 			sidebar: [
 				{
 					label: 'Guides',
