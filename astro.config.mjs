@@ -21,7 +21,10 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Общая информация',
-					autogenerate: { directory: 'common-info' },
+					items: [
+						{ label: 'Введение', link: '/common-info/getting-started/' },
+						{ label: 'Мои достижения', link: '/common-info/achievements/' },
+					],
 				},
 				{
 					label: 'Cheatsheets',
