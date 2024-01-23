@@ -20,6 +20,10 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
+					label: 'Общая информация',
+					autogenerate: { directory: 'common-info' },
+				},
+				{
 					label: 'Cheatsheets',
 					autogenerate: { directory: 'cheatsheets' },
 				},
