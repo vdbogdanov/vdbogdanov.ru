@@ -5,9 +5,14 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'vdbogdanov',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/vdbogdanov',
+				gitlab: 'https://gitlab.com/vdbogdanov',
+				telegram: 'https://t.me/vdbogdanov',
+				discord: 'http://discordapp.com/users/vdbogdanov',
+				linkedin: 'https://www.linkedin.com/in/vdbogdanov',
+				email: 'mailto:vladimirxbogdanov@yandex.ru',
 			},
 			sidebar: [
 				{
