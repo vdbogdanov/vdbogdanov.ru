@@ -2,7 +2,14 @@
 title: Мои достижения
 ---
 
-## Участие в мероприятиях
 ## Сертификаты
-### TD-2201. Termidesk: установка, настройка и управление.
+
+### Termidesk: установка, настройка и управление
+
+![termidesk-certificate](./src/assets/images/common-info/achievements/termidesk-certificate.png)
+
 ### VK Teams Basics
+
+![vk-teams-certificate](./src/assets/images/common-info/achievements/vk-teams-certificate.png)
+
+## Участие в мероприятиях
