@@ -23,7 +23,8 @@ export default defineConfig({
 					label: 'Общая информация',
 					items: [
 						{ label: 'Введение', link: '/common-info/getting-started/' },
-						{ label: 'Мои достижения', link: '/common-info/achievements/' },
+						{ label: 'Мои сертификаты', link: '/common-info/certificates/' },
+						{ label: 'Участие в мероприятиях', link: '/common-info/events/' },
 					],
 				},
 				{
