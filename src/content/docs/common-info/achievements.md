@@ -6,10 +6,14 @@ title: Мои достижения
 
 ### Termidesk: установка, настройка и управление
 
-![termidesk-certificate](/images/common-info/achievements/termidesk-certificate.png)
+![termidesk-certificate](/images/common-info/achievements/certificates/termidesk-certificate.png)
 
 ### VK Teams Basics
 
-![vk-teams-certificate](/images/common-info/achievements/vk-teams-certificate.png)
+![vk-teams-certificate](/images/common-info/achievements/certificates/vk-teams-certificate.png)
 
 ## Участие в мероприятиях
+
+### Школа IT-решений 2021
+
+![vk-teams-certificate](/images/common-info/achievements/events/croc-shir2021.png)
