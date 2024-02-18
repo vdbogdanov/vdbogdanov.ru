@@ -28,43 +28,8 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Cheatsheets',
-					autogenerate: { directory: 'cheatsheets' },
-				},
-				{
-					label: 'Автоматизация',
-					items: [
-						{
-							label: 'Ansible',
-							autogenerate: { directory: 'automation/ansible' },
-						},
-						{
-							label: 'Terraform',
-							autogenerate: { directory: 'automation/terraform' },
-						},
-					],
-				},
-				{
-					label: 'Виртуализация',
-					autogenerate: { directory: 'virtualization' },
-				},
-				{
-					label: 'Контейнеризация',
-					items: [
-						{
-							label: 'Docker',
-							autogenerate: { directory: 'containerization/docker' },
-						},
-					],
-				},
-				{
-					label: 'Импортозамещение',
-					items: [
-						{
-							label: 'Termidesk VDI',
-							autogenerate: { directory: 'import-substitution/termidesk-vdi' },
-						},
-					],
+					label: 'Блог',
+					autogenerate: { directory: 'blog' },
 				},
 			],
 		}),
