@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Записки айтишника](README.md)
+* [Введение](README.md)
 * [Мои достижения](moi-dostizheniya.md)
