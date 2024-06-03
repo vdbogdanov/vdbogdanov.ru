@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
-* [Мои сертификаты](moi-sertifikaty.md)
+* [Блог](README.md)
+* [Мои достижения](moi-dostizheniya.md)
